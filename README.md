@@ -9,7 +9,7 @@ This project aims at performing an explanatory data analysis on a retail superst
 - _**Power Bi**_ : was used to create an informative & interactive dashboard.
 
 # DashBoard
-<img src = 'dashboard black.JPG'>
+<img src = 'Dashboard White.JPG'>
 
 
 Check more about the project through: https://bit.ly/3L4Qjf6
