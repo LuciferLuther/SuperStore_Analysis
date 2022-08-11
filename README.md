@@ -12,7 +12,7 @@ This project aims at performing an explanatory data analysis on a retail superst
 <img src = 'Dashboard White.JPG'>
 
 
-Check more about the project through: https://bit.ly/3L4Qjf6
+#Check more about the project through: https://bit.ly/3L4Qjf6
 
 ## You can access Task deepnote - Dashboard using this link :
 https://bit.ly/3jVlsWi
