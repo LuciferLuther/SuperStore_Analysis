@@ -5,8 +5,8 @@
 This project aims at performing an explanatory data analysis on a retail superstore dataset, to suggest solutions that increase profit and sales.
 
 - _**Python**_ : As the programming language used for the analysis.
-- _**Deepnote**_ : Integrated Development Environment (IDE)
-- _**Power Bi**_ : was used to create an informative & interactive dashboard.
+- _**Jupyter Notebook**_ : Integrated Development Environment (IDE)
+- _**Power Bi**_ : Used to create an informative & interactive dashboard.
 
 # DashBoard
 <img src = 'Dashboard White.JPG'>
