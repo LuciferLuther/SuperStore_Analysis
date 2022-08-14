@@ -20,6 +20,6 @@
 https://bit.ly/3AfzNpy
 
 ## You can access Task deepnote - Dashboard using this link :
-https://bit.ly/3jVlsWi
+https://deepnote.com/@nadersalama-lucifer/Superstore-Analysis-650b0921-97fe-4e17-8b11-0a70a86ee77c
 ## Youtube Demo Link :
 https://lnkd.in/dmkKgMUS
