@@ -1,5 +1,5 @@
 # Super Store Analysis
-<img src = 'https://www.sbxl.com/wp-content/uploads/2021/06/analytic-shop.jpg' align = 'center' width = '100%' height = '100%'>
+<img src = 'Retail Poster.png' align = 'center' width = '100%' height = '100%'>
 
 ## Project Description
 Every E-commerce stores requries analytics and evaluation of their performance to further expand their scalability and reach, while also manage to solve the major obstacles and problems that with that expansion.
@@ -40,7 +40,8 @@ Conducting this case study aims to help reduce understocking and overstocking wh
     Order Priority => describe how urgent an order is.
 
 ## Dashboard
-<img src = 'Superstore Analysis Dashboard.JPG'>
+<img src = 'Superstore Analysis Dashboard (1).JPG'>
+<img src = 'Superstore Analysis Dashboard (2).JPG'>
 
 ## Interactive Dashboard Link
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjAwMjI4ZTUtOGYyOS00NGZlLWIwYTAtMzZlZjNlZDFlODAzIiwidCI6IjA0MTYwZGYwLTUzNjItNDVjZS1hZTlkLTU3MzIzZWVlNDI0YiJ9)
