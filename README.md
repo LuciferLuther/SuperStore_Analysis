@@ -8,7 +8,7 @@ Conducting this case study aims to help reduce understocking and overstocking wh
 
 ## Tools and Libraries
 - _**Python**_ : As the programming language used for the analysis.
-- _**Jupyter Notebook**_ : Integrated Development Environment (IDE)
+- _**Deepnote**_ : Integrated Development Environment (IDE)
 - _**Power Bi**_ : Used to create an informative & interactive dashboard.
 
 ## Dataset Description
