@@ -1,4 +1,4 @@
-# SuperStoreAnalysis
+# Super Store Analysis
 <img src = 'https://www.sbxl.com/wp-content/uploads/2021/06/analytic-shop.jpg' align = 'center' width = '100%' height = '100%'>
 
 ## Project Description
@@ -12,7 +12,7 @@
 **US retail superstore ->** https://bit.ly/3BYHAJD
 
 ## DashBoard
-<img src = 'Dashboard White.JPG'>
+<img src = 'Superstore Analysis Dashboard.JPG'>
 
 <!---  Check more about the project through: https://bit.ly/3L4Qjf6 -->
 
